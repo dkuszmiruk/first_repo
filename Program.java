@@ -3,6 +3,6 @@ public class HelloWorld {
     public static void main(String[] args) {
         // Basic program, really basic
         System.out.println("Hello, World");
-    }
+    }//end of the method
 
 }
