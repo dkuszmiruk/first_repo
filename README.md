@@ -1,4 +1,4 @@
 # first_repo
-Dominik Kuszmiruk
+Dominik
 04.11.2018
-zmiana
+zmiana 
